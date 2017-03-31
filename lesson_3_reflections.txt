@@ -8,3 +8,10 @@ Why might you want to always pull changes manually rather than having Git automa
 
 
     Remote repository must be updated with controlled commits.
+	
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+    Fork is a copy of repository on Github from another account.
+    Clone is a repository copy from git to github or vice versa.
+    Branch is a copy from master barnch to try experimental changes, they do not reflect on master if not merged. 	
